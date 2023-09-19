@@ -1,0 +1,8 @@
+# All need to proxy
+
+# > Unity
+DOMAIN-SUFFIX,unity.com
+DOMAIN-SUFFIX,unity3d.com
+
+# > MIUI EU
+DOMAIN-SUFFIX,xiaomi.eu

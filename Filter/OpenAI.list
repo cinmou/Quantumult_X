@@ -1,5 +1,9 @@
 # OpenAI
 
 # > ChatGPT
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.com
+
+# > New bing
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,live.com
