@@ -37,3 +37,6 @@ DOMAIN,testflight.apple.com
 DOMAIN,appstoreconnect.apple.com
 DOMAIN,iosapps-ssl.itunes.apple.com
 DOMAIN,itcmobile.itunes.apple.com
+
+# > Apple News
+DOMAIN-SUFFIX,gateway.icloud.com
