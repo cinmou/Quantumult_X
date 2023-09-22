@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,unity3d.com
 
 # > MIUI EU
 DOMAIN-SUFFIX,xiaomi.eu
+
+# >Others
+DOMAIN-SUFFIX,v2ex.com
