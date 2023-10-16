@@ -4,7 +4,7 @@
 IP-CIDR,208.54.0.0/16
 
 # XJTLU
-DOMAIN-SUFFIX,xjtlu.edu.cn
+DOMAIN,xjtlu.edu.cn
 
 # China Area Network
 DOMAIN-SUFFIX,flyert.com
