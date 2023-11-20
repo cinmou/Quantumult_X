@@ -74,11 +74,3 @@ DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
-
-# > New bing
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,bing.net
-DOMAIN-SUFFIX,bingapis.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,lync.com
