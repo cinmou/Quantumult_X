@@ -7,9 +7,6 @@ DOMAIN-SUFFIX,unity3d.com
 # > MIUI EU
 DOMAIN-SUFFIX,xiaomi.eu
 
-# > Windows Check
-DOMAIN-SUFFIX,sftconnecttest.com
-
 # > Others
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,viva-la-vita.org
@@ -17,8 +14,7 @@ DOMAIN-SUFFIX,bbs.viva-la-vita.org
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,telegramgroups.com.hk
 DOMAIN-SUFFIX,vidhub.tv
-
-# > Tello
-DOMAIN-SUFFIX,tello.com
-DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,kemono.su
 DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,wallhaven.cc
+DOMAIN-SUFFIX,ddd-smart.net
