@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,scdn.co //Spotify用于内容分发的域名。
+DOMAIN-SUFFIX,spotify.com //这是Spotify的主域名，涵盖了大部分服务。
+DOMAIN-SUFFIX,spotifycdn.net
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,spoti.fi
+DOMAIN-KEYWORD,spotify.com
+DOMAIN-KEYWORD,-spotify-com
