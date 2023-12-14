@@ -1,4 +1,6 @@
 # > Alphabet
+DOMAIN-SUFFIX,go.dev
+DOMAIN-SUFFIX,golang.org
 
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,admob.com
