@@ -1,14 +1,3 @@
-# All need to proxy
-
-# > News
-host, news-edge.apple.com
-host, news-events.apple.com
-host, apple.comscoreresearch.com
-
-# News+ Audio
-# URL-REGEX,^https?:\/\/news-assets\.apple\.com\/(audio-narrative|podcast\/audio)\/.*
-
-host, news-assets.apple.com
 
 # > Apple News
 DOMAIN,gateway.icloud.com
