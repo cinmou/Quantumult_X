@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,gandi.net
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN,download.jetbrains.com
 DOMAIN,origin-a.akamaihd.net // Origin Download
+DOMAIN-SUFFIX,logitch.io
+
 
 # > PayPal
 DOMAIN-SUFFIX,paypal.com
