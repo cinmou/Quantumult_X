@@ -10,19 +10,20 @@ DOMAIN-SUFFIX,xiaomi.eu
 # >Github
 DOMAIN-SUFFIX,github.com
 
+# > Tello
+DOMAIN-SUFFIX,tello.com
+
 # > Others
 DOMAIN-SUFFIX,rule34.xxx
-DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,viva-la-vita.org
-DOMAIN-SUFFIX,bbs.viva-la-vita.org
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,telegramgroups.com.hk
 DOMAIN-SUFFIX,vidhub.tv
 DOMAIN-SUFFIX,kemono.su
-DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,ddd-smart.net
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,accaglobal.com
 DOMAIN-SUFFIX,ecosia.org
+
