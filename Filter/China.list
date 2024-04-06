@@ -2,8 +2,8 @@
 IP-CIDR,208.54.0.0/16
 
 # XJTLU
+HOST-KEYWORD,xjtlu
 DOMAIN-SUFFIX,xjtlu.edu.cn
-DOMAIN-SUFFIX,netauth.xjtlu.edu.cn
 
 # China Area Network
 DOMAIN-SUFFIX,flyert.com
@@ -14,9 +14,8 @@ DOMAIN,origin-a.akamaihd.net // Origin Download
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,cloudflare.com
-
-DOMAIN-SUFFIX,ous50.moe
 DOMAIN-SUFFIX,ipapark.com
+DOMAIN-SUFFIX,ous50.moe
 
 # > PayPal
 DOMAIN-SUFFIX,paypal.com
