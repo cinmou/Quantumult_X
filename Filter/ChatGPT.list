@@ -5,6 +5,9 @@ DOMAIN-SUFFIX,sftconnecttest.com
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
 
+
+DOMAIN-SUFFIX,hume.ai
+
 # > ChatGPT
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,auth0.com
