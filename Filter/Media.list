@@ -68,12 +68,7 @@ DOMAIN,d1v5ir2lpwr8os.cloudfront.net
 DOMAIN,d27xxe7juh1us6.cloudfront.net
 # DOMAIN,www.amazon.com
 DOMAIN-KEYWORD,avoddashs
-# > Apple Music TV
-DOMAIN,tv.applemusic.com
-# > Apple TV
-DOMAIN,linear.tv.apple.com
-DOMAIN,play-edge.itunes.apple.com
-DOMAIN,uts-api.itunes.apple.com
+
 # > Bahamut
 DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
@@ -213,6 +208,7 @@ DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,smartmediarep.com
 # > Netflix
+DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
 DOMAIN-SUFFIX,nflxext.com
@@ -223,7 +219,7 @@ DOMAIN-SUFFIX,nflxvideo.net
 DOMAIN-KEYWORD,netflixdnstest
 DOMAIN-KEYWORD,apiproxy-device-prod-nlb-
 DOMAIN-KEYWORD,dualstack.apiproxy-
-# GEOIP,NETFLIX,no-resolve
+GEOIP,NETFLIX,no-resolve
 # > niconico
 DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
@@ -253,16 +249,7 @@ DOMAIN-SUFFIX,pornhubpremium.com
 # > 台湾好
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN,hamifans.emome.net
-# > TikTok
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-KEYWORD,tiktokcdn-
+
 # > TVer
 DOMAIN-SUFFIX,tver.jp
 DOMAIN,edge.api.brightcove.com

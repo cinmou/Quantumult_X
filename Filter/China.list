@@ -1,4 +1,16 @@
-# > Tello Wifi-calling
+# China Area Network
+DOMAIN,download.jetbrains.com
+DOMAIN,origin-a.akamaihd.net // Origin Download
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,flyert.com
+DOMAIN-SUFFIX,gandi.net
+DOMAIN-SUFFIX,ipapark.com
+DOMAIN-SUFFIX,logitech.io
+DOMAIN-SUFFIX,ous50.moe
+DOMAIN-SUFFIX,snapdrop.net
+DOMAIN-SUFFIX,weixin.qq.com
+
+# Tello Wifi-calling
 IP-CIDR,208.54.0.0/16
 
 # XJTLU
@@ -6,23 +18,37 @@ HOST-KEYWORD,xjtlu
 DOMAIN-SUFFIX,xjtlu.edu.cn
 DOMAIN-SUFFIX,sso.xjtlu.edu.cn
 
-# China Area Network
-DOMAIN-SUFFIX,flyert.com
-DOMAIN-SUFFIX,gandi.net
-DOMAIN-SUFFIX,snapdrop.net
-DOMAIN,download.jetbrains.com
-DOMAIN,origin-a.akamaihd.net // Origin Download
-DOMAIN-SUFFIX,logitech.io
-DOMAIN-SUFFIX,weixin.qq.com
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,ipapark.com
-DOMAIN-SUFFIX,ous50.moe
-
-# > PayPal
+# PayPal
+USER-AGENT,PayPal*
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypal-mktg.com
 DOMAIN-SUFFIX,paypalobjects.com
+
+# bilibili
+DOMAIN,api.bilibili.com
+
+# ByteDance
+DOMAIN-KEYWORD,-normal-lq.amemv.com
+DOMAIN-KEYWORD,-normal-c-lq.amemv.com
+DOMAIN,ib.snssdk.com
+# (Web)
+DOMAIN,www.douyin.com
+
+# Kuwo
+DOMAIN,ip.i.kuwo.cn
+
+# Xiaohongshu
+DOMAIN,edith.xiaohongshu.com
+
+# Weibo
+DOMAIN,api.weibo.cn
+# (Web)
+DOMAIN,www.weibo.com
+DOMAIN,s.weibo.com
+
+# Zhihu
+DOMAIN,api.zhihu.com
 
 # Just for Quantumult X, move GEOIP,CN to the bottom (local filter at the top by default)
 GEOIP,CN,no-resolve

@@ -1,29 +1,66 @@
 # All need to proxy
 
-# > Unity
+# > Other
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,unity3d.com
-
-# > MIUI EU
 DOMAIN-SUFFIX,xiaomi.eu
-
-# >Github
-DOMAIN-SUFFIX,github.com
-
-# > Tello
 DOMAIN-SUFFIX,tello.com
 
+# > Windows Check
+DOMAIN-SUFFIX,sftconnecttest.com
+
 # > Others
-DOMAIN-SUFFIX,rule34.xxx
-DOMAIN-SUFFIX,limbopro.com
-DOMAIN-SUFFIX,viva-la-vita.org
-DOMAIN-SUFFIX,macked.app
-DOMAIN-SUFFIX,telegramgroups.com.hk
-DOMAIN-SUFFIX,vidhub.tv
-DOMAIN-SUFFIX,kemono.su
-DOMAIN-SUFFIX,wallhaven.cc
-DOMAIN-SUFFIX,ddd-smart.net
-DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,accaglobal.com
+DOMAIN-SUFFIX,ddd-smart.net
 DOMAIN-SUFFIX,ecosia.org
 DOMAIN-SUFFIX,ipa.store
+DOMAIN-SUFFIX,kemono.su
+DOMAIN-SUFFIX,limbopro.com
+DOMAIN-SUFFIX,macked.app
+DOMAIN-SUFFIX,rule34.xxx
+DOMAIN-SUFFIX,telegramgroups.com.hk
+DOMAIN-SUFFIX,vidhub.tv
+DOMAIN-SUFFIX,viva-la-vita.org
+DOMAIN-SUFFIX,wallhaven.cc
+
+# ---(Microsoft)---
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN,assets1.xboxlive.com
+DOMAIN,assets2.xboxlive.com
+DOMAIN,az416426.vo.msecnd.net
+DOMAIN,az668014.vo.msecnd.net
+DOMAIN,github.global.ssl.fastly.net
+# > Microsoft Teams
+DOMAIN-SUFFIX,teams.cdn.live.net
+DOMAIN-SUFFIX,teams.live.com
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN,teams.events.data.microsoft.com
+# DOMAIN,statics.teams.cdn.office.net
+# > Microsoft & Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
+# ------
+
+# ---(Apple)---
+DOMAIN-SUFFIX,appsto.re // Apple URL Shortener
+DOMAIN-SUFFIX,smoot.apple.com // Spotlight
+DOMAIN,amp-api.podcasts.apple.com // Podcasts
+DOMAIN,beta.music.apple.com // Apple Music Web
+DOMAIN,books.itunes.apple.com // iBooks Store download
+DOMAIN,facetime.apple.com // FaceTime Links
+DOMAIN,lookup-api.apple.com // Look Up
+DOMAIN,radio.itunes.apple.com // Apple Music Radio
+# > Web Preview
+DOMAIN,apps.apple.com
+DOMAIN,books.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,tv.apple.com
+# ------

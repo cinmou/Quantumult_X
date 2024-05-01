@@ -6,7 +6,7 @@ DOMAIN-KEYWORD,microsoft
 DOMAIN-SUFFIX,aadrm.com
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,acompli.net
-DOMAIN-SUFFIX,aka.ms
+# DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets-yammer.com
@@ -78,6 +78,8 @@ DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,yammer.com
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-SUFFIX,bingapis.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,lync.com
 DOMAIN-SUFFIX,live.com
