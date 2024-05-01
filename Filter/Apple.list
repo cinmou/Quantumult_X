@@ -35,15 +35,6 @@ DOMAIN,testflight.apple.com
 DOMAIN,appstoreconnect.apple.com
 DOMAIN,iosapps-ssl.itunes.apple.com
 DOMAIN,itcmobile.itunes.apple.com
-# > Apple News
-DOMAIN,gateway.icloud.com
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-assets.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,news-client-search.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
 # > Apple Music TV
 DOMAIN,tv.applemusic.com
 # > Apple TV
