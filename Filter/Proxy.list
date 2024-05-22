@@ -6,6 +6,8 @@ DOMAIN-SUFFIX,unity3d.com
 DOMAIN-SUFFIX,xiaomi.eu
 DOMAIN-SUFFIX,tello.com
 DOMAIN-SUFFIX,rhythm.cafe
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,fly.io
 
 # > Windows Check
 DOMAIN-SUFFIX,sftconnecttest.com
