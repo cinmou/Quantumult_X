@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,ous50.moe
 DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,1password.com
 
 # Tello Wifi-calling
 IP-CIDR,208.54.0.0/16
