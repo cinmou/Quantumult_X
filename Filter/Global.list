@@ -2,13 +2,13 @@
 DOMAIN-SUFFIX,9cache.com
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,abc.com
+DOMAIN-SUFFIX,about.me
 DOMAIN-SUFFIX,anchor.fm
+DOMAIN-SUFFIX,annas-archive.org
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apkpure.com
-DOMAIN-SUFFIX,archive.fo
-DOMAIN-SUFFIX,archive.is
+DOMAIN-SUFFIX,archive.md
 DOMAIN-SUFFIX,archive.org
-DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
 DOMAIN-SUFFIX,artstation.com
 DOMAIN-SUFFIX,ask.com
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,devv.ai
 DOMAIN-SUFFIX,disconnect.me
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dlive.tv
+DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,earthcam.com
@@ -112,7 +113,6 @@ DOMAIN-SUFFIX,newyorker.com
 DOMAIN-SUFFIX,now.com
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,omny.fm
-# DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openvpn.net
 DOMAIN-SUFFIX,owltail.com
 DOMAIN-SUFFIX,oxfordscholarship.com
@@ -215,7 +215,6 @@ DOMAIN-SUFFIX,zyxel.com
 
 DOMAIN,cdn.jsdelivr.net
 DOMAIN,cdn.statically.io
-DOMAIN,hub.docker.com
 DOMAIN,lab.skk.moe
 DOMAIN,ocsp.int-x3.letsencrypt.org
 DOMAIN,search.arc.net
@@ -246,14 +245,13 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,joinclubhouse.com
 DOMAIN,clubhouse.pubnubapi.com
-# > Crypto
+# ---(Crypto)---
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitflyer.com
 DOMAIN-SUFFIX,bitget.com
 DOMAIN-SUFFIX,bithumb.com
 DOMAIN-SUFFIX,bitstamp.net
-DOMAIN-SUFFIX,bybit.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinmarketcap.com
@@ -272,6 +270,12 @@ DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.info
 DOMAIN-SUFFIX,bnbstatic.com
+# > Bybit
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 # > OKX
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,okx.com.cdn.cloudflare.net
@@ -344,6 +348,7 @@ DOMAIN-SUFFIX,reutersmedia.net
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com
 # DOMAIN,store.steampowered.com
+# ------
 # > The Economist
 DOMAIN-SUFFIX,economist.com
 DOMAIN-SUFFIX,static-economist.com
@@ -390,11 +395,15 @@ DOMAIN,search.yahoo.co.jp
 # > Yandex
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.ru
-DOMAIN,disk.yandex.comm
+DOMAIN,disk.yandex.com
 # > Z-Library
+DOMAIN-SUFFIX,articles.sk
+DOMAIN-SUFFIX,go-to-library.sk
 DOMAIN-SUFFIX,singlelogin.re
-DOMAIN-SUFFIX,z-library.se
-DOMAIN-SUFFIX,z-library.sx
+DOMAIN-SUFFIX,singlelogin.rs
+DOMAIN-SUFFIX,z-lib.gs
+DOMAIN-SUFFIX,z-library.rs
+
 # (Region-Restricted Access Denied)
 DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,ifixit.com
