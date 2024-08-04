@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,pan.baidu.com
+DOMAIN-SUFFIX,cncnet.org
 
 # Tello Wifi-calling
 IP-CIDR,208.54.0.0/16
