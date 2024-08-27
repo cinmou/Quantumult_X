@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,pan.baidu.com
 DOMAIN-SUFFIX,cncnet.org
 
+# Mental Omega
+DOMAIN-SUFFIX,mentalomega.com
+DOMAIN-SUFFIX,gamesurge.net
+
 # Tello Wifi-calling
 IP-CIDR,208.54.0.0/16
 
