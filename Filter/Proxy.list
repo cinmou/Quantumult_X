@@ -11,7 +11,11 @@ DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,pockyt.io
 
 # > Windows Check
-DOMAIN-SUFFIX,sftconnecttest.com
+DOMAIN-SUFFIX,msftconnecttest.com
+
+# > Steam Store
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
 
 # > Others
 DOMAIN-SUFFIX,accaglobal.com
