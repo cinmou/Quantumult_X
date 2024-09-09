@@ -13,10 +13,6 @@ DOMAIN-SUFFIX,pockyt.io
 # > Windows Check
 DOMAIN-SUFFIX,msftconnecttest.com
 
-# > Steam Store
-DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,steamstatic.com
-
 # > Others
 DOMAIN-SUFFIX,accaglobal.com
 DOMAIN-SUFFIX,ddd-smart.net

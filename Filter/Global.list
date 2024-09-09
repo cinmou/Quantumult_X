@@ -345,9 +345,7 @@ DOMAIN-SUFFIX,redditstatic.com
 # > Reuters
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,reutersmedia.net
-# > Steam
-DOMAIN-SUFFIX,steamcommunity.com
-# DOMAIN,store.steampowered.com
+
 # ------
 # > The Economist
 DOMAIN-SUFFIX,economist.com
