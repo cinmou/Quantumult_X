@@ -1,5 +1,4 @@
 # All need to proxy
-
 # > Others
 DOMAIN-SUFFIX,accaglobal.com
 DOMAIN-SUFFIX,ddd-smart.net
@@ -57,7 +56,6 @@ DOMAIN-SUFFIX,upsangel.com
 
 # ---(Microsoft)---
 DOMAIN-SUFFIX,aka.ms
-DOMAIN-SUFFIX,onedrive.live.com
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
 DOMAIN,assets1.xboxlive.com
 DOMAIN,assets2.xboxlive.com
