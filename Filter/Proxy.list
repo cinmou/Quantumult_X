@@ -22,11 +22,8 @@ DOMAIN-SUFFIX,fly.io
 DOMAIN-SUFFIX,pockyt.io
 DOMAIN-SUFFIX,vmhaus.com
 DOMAIN-SUFFIX,upsangel.com
-<<<<<<< HEAD
 DOMAIN-SUFFIX,kemono.games
-=======
 DOMAIN-SUFFIX,steamgriddb.com
->>>>>>> 582a77a848bf5fc1087e2ed35481d444f24a1996
 
 # > Windows Check
 DOMAIN-SUFFIX,msftconnecttest.com
