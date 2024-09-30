@@ -26,38 +26,12 @@ DOMAIN-SUFFIX,kemono.games
 DOMAIN-SUFFIX,steamgriddb.com
 DOMAIN-SUFFIX,furrygames.top
 DOMAIN-SUFFIX,booru.org
+DOMAIN-SUFFIX,moe-acg.com
 DOMAIN-SUFFIX,linux.do
-
-# > Windows Check
-DOMAIN-SUFFIX,msftconnecttest.com
 
 # > Patreon
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,patreonusercontent.com
-
-# > Others
-DOMAIN-SUFFIX,accaglobal.com
-DOMAIN-SUFFIX,ddd-smart.net
-DOMAIN-SUFFIX,ecosia.org
-DOMAIN-SUFFIX,ipa.store
-DOMAIN-SUFFIX,kemono.su
-DOMAIN-SUFFIX,limbopro.com
-DOMAIN-SUFFIX,macked.app
-DOMAIN-SUFFIX,rule34.xxx
-DOMAIN-SUFFIX,telegramgroups.com.hk
-DOMAIN-SUFFIX,vidhub.tv
-DOMAIN-SUFFIX,viva-la-vita.org
-DOMAIN-SUFFIX,wallhaven.cc
-DOMAIN-SUFFIX,unity.com
-DOMAIN-SUFFIX,unity3d.com
-DOMAIN-SUFFIX,xiaomi.eu
-DOMAIN-SUFFIX,tello.com
-DOMAIN-SUFFIX,rhythm.cafe
-DOMAIN-SUFFIX,fly.dev
-DOMAIN-SUFFIX,fly.io
-DOMAIN-SUFFIX,pockyt.io
-DOMAIN-SUFFIX,vmhaus.com
-DOMAIN-SUFFIX,upsangel.com
 
 # ---(Microsoft)---
 DOMAIN-SUFFIX,aka.ms
@@ -76,6 +50,8 @@ DOMAIN,teams.events.data.microsoft.com
 DOMAIN,copilot.microsoft.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
+# > Windows Check
+DOMAIN-SUFFIX,msftconnecttest.com
 # ------
 
 # ---(Apple)---
