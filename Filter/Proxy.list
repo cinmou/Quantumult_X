@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,kemono.su
 DOMAIN-SUFFIX,limbopro.com
 DOMAIN-SUFFIX,macked.app
 DOMAIN-SUFFIX,rule34.xxx
+DOMAIN-SUFFIX,e621.net
 DOMAIN-SUFFIX,telegramgroups.com.hk
 DOMAIN-SUFFIX,vidhub.tv
 DOMAIN-SUFFIX,viva-la-vita.org
@@ -25,9 +26,11 @@ DOMAIN-SUFFIX,upsangel.com
 DOMAIN-SUFFIX,kemono.games
 DOMAIN-SUFFIX,steamgriddb.com
 DOMAIN-SUFFIX,furrygames.top
-DOMAIN-SUFFIX,booru.org
+DOMAIN-SUFFIX,censored.booru.org
 DOMAIN-SUFFIX,moe-acg.com
 DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,comdotgame.com
+DOMAIN-SUFFIX,sleazyfork.org
 
 # > Patreon
 DOMAIN-SUFFIX,patreon.com
