@@ -61,10 +61,6 @@ DOMAIN-SUFFIX,teams.live.com
 DOMAIN-SUFFIX,teams.microsoft.com
 DOMAIN,teams.events.data.microsoft.com
 # DOMAIN,statics.teams.cdn.office.net
-# > Microsoft & Copilot
-DOMAIN,copilot.microsoft.com
-DOMAIN,sydney.bing.com
-DOMAIN,www.bing.com
 # > Windows Check
 DOMAIN-SUFFIX,msftconnecttest.com
 # ------

@@ -33,3 +33,8 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,sfo3.turn.livekit.cloud
 DOMAIN-KEYWORD,openaicom
+
+# > Microsoft & Copilot
+DOMAIN,copilot.microsoft.com
+DOMAIN,sydney.bing.com
+DOMAIN,www.bing.com
