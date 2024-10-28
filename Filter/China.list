@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,mentalomega.com
 DOMAIN-SUFFIX,gamesurge.net
 
 # XJTLU
-HOST-KEYWORD,xjtlu
+DOMAIN-KEYWORD,xjtlu
 DOMAIN-SUFFIX,xjtlu.edu.cn
 DOMAIN-SUFFIX,sso.xjtlu.edu.cn
 
