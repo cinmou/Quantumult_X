@@ -31,9 +31,6 @@ DOMAIN-SUFFIX,paypal.me
 DOMAIN-SUFFIX,paypal-mktg.com
 DOMAIN-SUFFIX,paypalobjects.com
 
-# bilibili
-DOMAIN,api.bilibili.com
-
 # ByteDance
 DOMAIN-KEYWORD,-normal-lq.amemv.com
 DOMAIN-KEYWORD,-normal-c-lq.amemv.com
