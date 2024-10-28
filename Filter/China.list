@@ -1,3 +1,6 @@
+# Tello Wifi-calling
+IP-CIDR,208.54.0.0/16
+
 # China Area Network
 DOMAIN,download.jetbrains.com
 DOMAIN,origin-a.akamaihd.net // Origin Download
@@ -21,9 +24,6 @@ host, sdkapp.uve.weibo.com, direct
 # Mental Omega
 DOMAIN-SUFFIX,mentalomega.com
 DOMAIN-SUFFIX,gamesurge.net
-
-# Tello Wifi-calling
-IP-CIDR,208.54.0.0/16
 
 # XJTLU
 HOST-KEYWORD,xjtlu
