@@ -42,6 +42,9 @@ DOMAIN,ib.snssdk.com
 # (Web)
 DOMAIN,www.douyin.com
 
+# Smartisan Note
+DOMAIN-SUFFIX,snote.ink
+
 # Kuwo
 DOMAIN,ip.i.kuwo.cn
 
