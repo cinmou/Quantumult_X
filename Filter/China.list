@@ -44,6 +44,8 @@ DOMAIN,www.douyin.com
 
 # Smartisan Note
 DOMAIN-SUFFIX,snote.ink
+DOMAIN-SUFFIX,smartisanos.cn
+DOMAIN-SUFFIX,smartisan.com
 
 # Kuwo
 DOMAIN,ip.i.kuwo.cn
