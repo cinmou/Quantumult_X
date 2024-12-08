@@ -47,7 +47,6 @@ DOMAIN-SUFFIX,zynamics.com
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
 DOMAIN-SUFFIX,goog
-
 # > Chromecast with Google TV
 DOMAIN-KEYWORD,pa.google
 # > Google Drive
@@ -64,6 +63,5 @@ DOMAIN,www.googleapis.com
 DOMAIN,lens.l.google.com
 # > Google Search
 DOMAIN-KEYWORD,www.google.
-# > Google & Gemini
-DOMAIN,gemini.google.com
-DOMAIN,bard.google.com
+# > Google
+GEOIP,GOOGLE
