@@ -15,6 +15,16 @@ DOMAIN-SUFFIX,grazie.ai
 # > Meta
 DOMAIN,imagine.meta.com
 
+# > GitHub Copilot
+DOMAIN-SUFFIX,githubcopilot.com
+
+# > Perplexity
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,pplx.ai
+
+# > AI Gateway
+DOMAIN,gateway.ai.cloudflare.com
+
 # > Hume
 DOMAIN-SUFFIX,hume.ai
 
@@ -43,3 +53,15 @@ DOMAIN,apple-relay.cloudflare.com
 DOMAIN,apple-relay.fastly-edge.com
 DOMAIN,cp4.cloudflare.com
 DOMAIN,guzzoni.apple.com
+
+# > Gemini
+DOMAIN,ai.google.dev
+DOMAIN,bard.google.com
+DOMAIN,gemini.google.com
+DOMAIN,generativelanguage.googleapis.com
+DOMAIN,proactivebackend-pa.googleapis.com
+
+# > AI Studio
+DOMAIN,aistudio.google.com
+DOMAIN,alkalimakersuite-pa.clients6.google.com
+
