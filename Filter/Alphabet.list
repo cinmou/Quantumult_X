@@ -64,3 +64,6 @@ DOMAIN,www.googleapis.com
 DOMAIN,lens.l.google.com
 # > Google Search
 DOMAIN-KEYWORD,www.google.
+# > Google & Gemini
+DOMAIN,gemini.google.com
+DOMAIN,bard.google.com

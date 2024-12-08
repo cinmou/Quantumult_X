@@ -9,10 +9,6 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,anthropic.com
 
-# > Google & Gemini
-DOMAIN,gemini.google.com
-DOMAIN,bard.google.com
-
 # > JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
 
