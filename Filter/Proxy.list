@@ -50,6 +50,10 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,patreonusercontent.com
 
+# > Pikpak
+DOMAIN-SUFFIX,mypikpak.org
+DOMAIN-SUFFIX,mypikpak.com
+
 # ---(Microsoft)---
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,streaming.mediaservices.windows.net
