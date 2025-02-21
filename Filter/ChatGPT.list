@@ -15,13 +15,6 @@ DOMAIN-SUFFIX,grazie.ai
 # > Meta
 DOMAIN,imagine.meta.com
 
-# > GitHub Copilot
-DOMAIN-SUFFIX,githubcopilot.com
-
-# > Perplexity
-DOMAIN-SUFFIX,perplexity.ai
-DOMAIN-SUFFIX,pplx.ai
-
 # > AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
 
