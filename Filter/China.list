@@ -25,6 +25,11 @@ DOMAIN-SUFFIX,ikmmh.com
 DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,csdn.net
 
+# Bank
+DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,bochk.com
+
 # Mental Omega
 DOMAIN-SUFFIX,mentalomega.com
 DOMAIN-SUFFIX,gamesurge.net
