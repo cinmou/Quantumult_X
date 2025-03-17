@@ -8,12 +8,17 @@ DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,anthropic.com
+IP-CIDR,160.79.104.0/23
+IP-CIDR6,2607:6bc0::/48
 
 # > JetBrains AI
 DOMAIN-SUFFIX,grazie.ai
+DOMAIN-SUFFIX,jetbrains.ai
+DOMAIN-SUFFIX,grazie.aws.intellij.net
 
 # > Meta
 DOMAIN,imagine.meta.com
+DOMAIN-SUFFIX,meta.ai
 
 # > AI Gateway
 DOMAIN,gateway.ai.cloudflare.com
@@ -22,14 +27,18 @@ DOMAIN,gateway.ai.cloudflare.com
 DOMAIN-SUFFIX,hume.ai
 
 # > ChatGPT
+DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.com
 DOMAIN,api.statsig.com
 DOMAIN,api-iam.intercom.io
 DOMAIN,chatgpt.livekit.cloud
+DOMAIN,host.livekit.cloud
 DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN,sfo3.turn.livekit.cloud
 DOMAIN-KEYWORD,openaicom
@@ -64,13 +73,33 @@ DOMAIN,guzzoni.apple.com
 DOMAIN,ai.google.dev
 DOMAIN,bard.google.com
 DOMAIN,gemini.google.com
+DOMAIN,generativeai.google
 DOMAIN,generativelanguage.googleapis.com
 DOMAIN,proactivebackend-pa.googleapis.com
+DOMAIN,geller-pa.googleapis.com
 # > AI Studio
 DOMAIN,aistudio.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
+DOMAIN,makersuite.google.com
 # > Search Labs
 DOMAIN-KEYWORD,labs.google
 # > NotebookLM
 DOMAIN-KEYWORD,notebooklm.google
+# > DeepMind
+DOMAIN,deepmind.com
+DOMAIN,deepmind.google
 
+# Perplexity
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+
+# mistral
+DOMAIN,chat.mistral.ai
+DOMAIN,console.mistral.ai
+DOMAIN-SUFFIX,mistral.ai
+
+# Grok
+DOMAIN,api.x.ai
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
