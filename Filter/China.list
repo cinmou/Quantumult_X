@@ -53,6 +53,11 @@ DOMAIN,ib.snssdk.com
 # (Web)
 DOMAIN,www.douyin.com
 
+# > Steam
+# >> Steam Connect Manager Servers
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+
 # Smartisan Note
 DOMAIN-SUFFIX,snote.ink
 DOMAIN-SUFFIX,smartisanos.cn
@@ -73,3 +78,19 @@ DOMAIN,s.weibo.com
 # Zhihu
 DOMAIN,api.zhihu.com
 
+# Github
+alive.github.com
+api.github.com
+
+# > Tencent
+IP-CIDR,182.254.116.0/24,no-resolve
+IP-CIDR,203.205.238.0/23,no-resolve
+IP-CIDR,203.205.254.0/23,no-resolve
+
+# > IP Query
+DOMAIN,ip.istatmenus.app
+DOMAIN,sms.imagetasks.com
+
+# > Speed Test
+DOMAIN-SUFFIX,netspeedtestmaster.com
+DOMAIN,speedtest.macpaw.com
