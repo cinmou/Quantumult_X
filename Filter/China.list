@@ -78,10 +78,6 @@ DOMAIN,s.weibo.com
 # Zhihu
 DOMAIN,api.zhihu.com
 
-# Github
-alive.github.com
-api.github.com
-
 # > Tencent
 IP-CIDR,182.254.116.0/24,no-resolve
 IP-CIDR,203.205.238.0/23,no-resolve
