@@ -14,7 +14,7 @@ DOMAIN-SUFFIX,ipapark.com
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,ous50.moe
 DOMAIN-SUFFIX,snapdrop.net
-DOMAIN-SUFFIX,weixin.qq.com
+DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,pan.baidu.com
 DOMAIN-SUFFIX,cncnet.org
@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,139.com
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,dl.samfwpremium.cloud
 DOMAIN-SUFFIX,imdodo.com
+DOMAIN-SUFFIX,cooleasy.net
+DOMAIN,wiki.52poke.com
 
 # Bank
 DOMAIN-SUFFIX,hsbc.com.hk
